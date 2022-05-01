@@ -1,0 +1,10 @@
+﻿  DataStructureAssgn1_1.cpp
+C:\Users\didgs\source\repos\DataStructureAssgn1_1\DataStructureAssgn1_1\DataStructureAssgn1_1.cpp(47,30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\didgs\source\repos\DataStructureAssgn1_1\DataStructureAssgn1_1\DataStructureAssgn1_1.cpp(48,30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\didgs\source\repos\DataStructureAssgn1_1\DataStructureAssgn1_1\DataStructureAssgn1_1.cpp(53,32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\didgs\source\repos\DataStructureAssgn1_1\DataStructureAssgn1_1\DataStructureAssgn1_1.cpp(57,32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\didgs\source\repos\DataStructureAssgn1_1\DataStructureAssgn1_1\DataStructureAssgn1_1.cpp(63,30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\didgs\source\repos\DataStructureAssgn1_1\DataStructureAssgn1_1\DataStructureAssgn1_1.cpp(64,30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\didgs\source\repos\DataStructureAssgn1_1\DataStructureAssgn1_1\DataStructureAssgn1_1.cpp(69,32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\didgs\source\repos\DataStructureAssgn1_1\DataStructureAssgn1_1\DataStructureAssgn1_1.cpp(73,32): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DataStructureAssgn1_1.vcxproj -> C:\Users\didgs\source\repos\DataStructureAssgn1_1\Debug\DataStructureAssgn1_1.exe
